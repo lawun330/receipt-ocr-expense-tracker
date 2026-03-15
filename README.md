@@ -1,1 +1,1 @@
-# scan-spend
+# ScanSpend: Receipt OCR Expense Tracker
